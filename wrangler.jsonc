@@ -1,6 +1,8 @@
 // wrangler.jsonc
 "name": "x9zf79eoupqs",
 {
+// wrangler.jsonc
+"name": "x9zf79eoupqs",
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "web-app-nova",
   "main": "worker.js",
